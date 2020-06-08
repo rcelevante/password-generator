@@ -1,5 +1,4 @@
 // Assignment code here
-// Assignment Code
 var generateBtn = document.querySelector("#generate");
 
 // Special characters for the function created
@@ -109,16 +108,4 @@ function generatePassword() {
 
 }
 
-// Get references to the #generate element
-// TESTvar generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
-// TESTfunction writePassword() {
-  // TESTvar password = generatePassword();
-  // TESTvar passwordText = document.querySelector("#password");
-    
-  // TESTpasswordText.value = password;
-
-
-// Add event listener to generate button
-// TESTgenerateBtn.addEventListener("click", writePassword);
